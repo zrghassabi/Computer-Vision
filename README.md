@@ -30,7 +30,7 @@ https://www.mathworks.com/help/deeplearning/ug/unsupervised-day-to-dusk-image-tr
 
 https://www.mathworks.com/support/search.html?fq%5B%5D=asset_type_name:video&fq%5B%5D=category:overview/ai-data-science-and-statistics&page=1
 
-Image segmentation using Python Lightening
+Image segmentation using Python Lightning
 
 https://lightning.ai/lightning-ai/studios/image-segmentation-with-pytorch-lightning
 
