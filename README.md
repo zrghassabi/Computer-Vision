@@ -8,6 +8,7 @@ Segmentation Models:
 
 https://segmentation-models-pytorch.readthedocs.io/en/latest/models.html
 
+https://github.com/jlcsilva/segmentation_models.pytorch/blob/master/examples/cars%20segmentation%20(camvid).ipynb
 
 ResUnet++ is a fully convolution neural network for image semantic segmentation. Consist of encoder and decoder parts connected with skip connections. The encoder extracts features of different spatial resolution (skip connections) which are used by decoder to define accurate segmentation mask.
 
