@@ -21,8 +21,13 @@ https://github.com/NVlabs/imaginaire/tree/master/projects/vid2vid
 
 https://www.mdpi.com/1424-8220/22/21/8540
 
+
+Imaginaire
+
 https://www.mathworks.com/support/search.html?q=image%20to%20image%20translation&fq%5B%5D=category:overview/ai-data-science-and-statistics&page=1
 
 https://www.mathworks.com/help/deeplearning/ug/unsupervised-day-to-dusk-image-translation-using-unit.html?searchHighlight=image%20to%20image%20translation&s_tid=srchtitle_support_results_1_image%20to%20image%20translation
+
+https://www.mathworks.com/support/search.html?fq%5B%5D=asset_type_name:video&fq%5B%5D=category:overview/ai-data-science-and-statistics&page=1
 
 
